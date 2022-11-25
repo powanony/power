@@ -1,0 +1,142 @@
+#img1{
+  align-items: center;
+  width: 70%;
+  margin: 10px 185px;
+}
+
+#line1{
+   background-color: red;
+   height: 2px;
+   width: 72%;
+   margin: -5px 175px;
+}
+
+#p11{
+  color: rgba(90, 4, 4, 0.7);
+  font-size: 13px;
+}
+
+#ddd{
+  width: 80%;
+  height: 1px;
+  background-color: rgb(0, 0, 0,0.6);
+  margin: 2px 1px;
+}
+
+#line2{
+  background-color: gray;
+  height: 2px;
+  width: 72%;
+  margin: -5px 175px;
+  
+}
+
+#info{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 72%;
+  margin: -1px 165px;
+}
+
+#add{
+  width:40px; 
+  height: 2px;
+   background-color: black; 
+   /* margin-left: 10px; */
+   margin-top: -10px;
+}
+
+#res{
+   color: green;
+   font-size: 20px;
+}
+
+#info-1{
+  width: 450px;
+  /* height: 150px; */
+  background-color: #e8eefa;
+  border: 1px solid rgb(15, 15, 204,0.7);
+  margin: 10px 5px;
+}
+
+#box-1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#box-2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 20px 20px;
+}
+
+#footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 70%;
+  margin: 1px 170px;
+  padding: 10px 10px;
+}
+
+#mark{
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  margin: 10px 170px;
+  align-items: center;
+  justify-content: center;
+}
+#table{
+  width: 100%;
+  border: 1px solid rgb(0, 0, 0,0.6);
+  border-collapse: collapse;
+  margin: 2px 1px;
+  /* margin: 1px 20px; */
+}
+
+#xyz{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ width: 100%;
+}
+
+#mark th{
+ background-color: rgb(0, 0, 0,0.1);
+ margin-top: -2px;
+}
+
+#mark td,th {
+  border: 1px solid rgb(0, 0, 0,0.9);
+  text-align: left;
+  /* padding: 8px; */
+}
+
+#block{
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  justify-content: center;
+  align-items: center;
+  margin: 5px 170px;
+  border: 1px solid rgb(0, 0, 0,0.6);
+}
+
+#b1{
+  border: 1px solid rgb(0, 0, 0,0.6);
+  margin: 1px 1px;
+  width: 40%;
+}
+
+#b2{
+  border: 1px solid rgb(0, 0, 0,0.6);
+  margin: 1px 1px;
+  width: 20%;
+}
